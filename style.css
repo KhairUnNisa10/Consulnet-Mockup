@@ -1,0 +1,122 @@
+body{
+	margin:0;
+}
+a:link {
+	color: white;
+	font-family: arial;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a:visited {
+	color: white;
+	font-family: arial;
+	font-weight: bold;
+}
+
+a:hover {
+	color: white;
+	font-family: arial;
+	background-color: #003d59;
+	font-weight: bold;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+#container {
+	
+	background-color: #004C6E;
+	
+
+}
+
+ul {
+	font-size: 18px;
+	margin: auto;
+	text-align: center;
+	padding: 15px;
+	list-style: none;
+}
+
+li {
+	display: inline-block;
+	padding: 16px;
+
+}
+
+#container1 {
+	background-image: url('Youth-Empowerment.jpg');
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+	height: 80vh;	
+	padding-left: 70px;
+	padding-top: 25px;
+	padding-right: 70px;
+	color: gray;
+	display: inline-block;	
+}
+
+p {
+	font-size: 20px;
+	font-family: arial;
+	color: white;
+	display: inline-block;
+	line-height: 30px ;
+	text-shadow: 0px 0px 1px white;
+	word-spacing: 1px;
+}
+
+iframe {
+	display: inline-block;
+}
+
+#section {
+	width: 42%;
+	float: right;
+	
+}
+
+#section1 {
+	margin: 0px;
+	display: inline-block;
+}
+
+span {
+	text-align: center;
+	font-weight: bold;
+	font-size: 50px;
+	
+}
+
+.button1 {
+	border-radius: 25px;
+	color: white;
+	padding: 10px 45px;
+	text-align: center;
+	font-size: 16px;
+	cursor: pointer;
+	background-color: #e84635;
+	display: inline-block;
+	color: white;
+	font-weight: bold;
+	font-family: arial;	
+}
+
+.button {
+	border-radius: 25px;
+	color: white;
+	padding: 10px 45px;
+	text-align: center;
+	font-size: 16px;
+	cursor: pointer;
+	background-color: #cecfd5;
+	display: inline-block;
+	margin-left: 55px;
+	color: black;
+	font-weight: bold;
+	font-family: arial;	
+	margin-top: 35px;
+}
